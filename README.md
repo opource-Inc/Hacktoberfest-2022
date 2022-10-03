@@ -54,6 +54,8 @@
  
 <td align="center"><a href="https://github.com/Bindasscodder"><kbd><img src="https://avatars3.githubusercontent.com/Bindasscodder?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bindasscodder</b></sub></a><br /><a href="https://github.com/Bindasscodder" title="Code"> :computer: </a> </td>
     
+<td align="center"><a href="https://github.com/SahilMadridista"><kbd><img src="https://avatars3.githubusercontent.com/SahilMadridista?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Sahil Madridista</b></sub></a><br /><a href="https://github.com/SahilMadridista" title="Code"> :computer: </a> </td>
+    
 </table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
