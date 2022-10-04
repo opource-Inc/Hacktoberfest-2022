@@ -55,6 +55,10 @@
 <td align="center"><a href="https://github.com/Bindasscodder"><kbd><img src="https://avatars3.githubusercontent.com/Bindasscodder?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bindasscodder</b></sub></a><br /><a href="https://github.com/Bindasscodder" title="Code"> :computer: </a> </td>
     
 <td align="center"><a href="https://github.com/SahilMadridista"><kbd><img src="https://avatars3.githubusercontent.com/SahilMadridista?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Sahil Madridista</b></sub></a><br /><a href="https://github.com/SahilMadridista" title="Code"> :computer: </a> </td>
+   
+<td align="center"><a href="https://github.com/Georghus"><kbd><img src="https://avatars3.githubusercontent.com/Georghus?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Georghus</b></sub></a><br /><a href="https://github.com/Georghus" title="Code"> :computer: </a> </td>  
+        
+<td align="center"><a href="https://github.com/abhirimal"><kbd><img src="https://avatars3.githubusercontent.com/abhirimal?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Abhiyan Dev Rimal</b></sub></a><br /><a href="https://github.com/abhirimal" title="Code"> :computer: </a> </td>    
     
 </table>
 <!-- markdownlint-enable -->
@@ -64,6 +68,8 @@
 
 ## Our Top Contributors 
 
+
+## About Open Source
 
 ![opensource](https://github.com/opource-Inc/Hacktoberfest-2022/blob/main/opensource.png)
 
