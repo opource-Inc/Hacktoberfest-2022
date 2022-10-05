@@ -24,10 +24,22 @@
 </div>
 
 <br/>
-> Here are some repositories for making your contribution in open-source
+> Here are some repositories to start your journey with open-source
 
 
+| Project Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks     | Contributors                                                                                                                                                        |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Opource-Official Website](https://github.com/opource-Inc/opource-website)         | [![GitHub issues](https://img.shields.io/github/issues/opource-Inc/opource-website?color=pink&logo=github)](https://github.com/opource-Inc/opource-website/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/opource-Inc/opource-website?style=social&logo=github)](https://github.com/opource-Inc/opource-website/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/opource-Inc/opource-website?logo=git)](https://github.com/opource-Inc/opource-website/network)                         | [![Contributors](https://img.shields.io/github/contributors/copource-Inc/opource-website?color=2b9348)](https://github.com/opource-Inc/opource-website/graphs/)                         |
 
+
+**Join us on :--**
+
+  - [Slack]()
+  - [Telegram]()
+  - [Discord]()
+  - [Whatsapp]()
+  - [LinkedIn]()
+  
 
 > **Steps for adding your name below**
 
