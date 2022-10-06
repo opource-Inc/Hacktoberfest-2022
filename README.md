@@ -70,7 +70,9 @@
    
 <td align="center"><a href="https://github.com/Georghus"><kbd><img src="https://avatars3.githubusercontent.com/Georghus?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Georghus</b></sub></a><br /><a href="https://github.com/Georghus" title="Code"> :computer: </a> </td>  
         
-<td align="center"><a href="https://github.com/abhirimal"><kbd><img src="https://avatars3.githubusercontent.com/abhirimal?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Abhiyan Dev Rimal</b></sub></a><br /><a href="https://github.com/abhirimal" title="Code"> :computer: </a> </td>    
+<td align="center"><a href="https://github.com/abhirimal"><kbd><img src="https://avatars3.githubusercontent.com/abhirimal?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Abhiyan Dev Rimal</b></sub></a><br /><a href="https://github.com/abhirimal" title="Code"> :computer: </a> </td>  
+
+<td align="center"><a href="https://github.com/RohitKumar1081"><kbd><img src="https://avatars3.githubusercontent.com/RohitKumar1081?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Rohit Kumar</b></sub></a><br /><a href="https://github.com/RohitKumar1081" title="Code"> :computer: </a> </td> 
     
 </table>
 <!-- markdownlint-enable -->
