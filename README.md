@@ -71,6 +71,8 @@
 <td align="center"><a href="https://github.com/Georghus"><kbd><img src="https://avatars3.githubusercontent.com/Georghus?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Georghus</b></sub></a><br /><a href="https://github.com/Georghus" title="Code"> :computer: </a> </td>  
         
 <td align="center"><a href="https://github.com/abhirimal"><kbd><img src="https://avatars3.githubusercontent.com/abhirimal?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Abhiyan Dev Rimal</b></sub></a><br /><a href="https://github.com/abhirimal" title="Code"> :computer: </a> </td>    
+
+<td align="center"><a href="https://github.com/thomasgilmore95"><kbd><img src="https://avatars3.githubusercontent.com/thomasgilmore95?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Thomas Gilmore</b></sub></a><br /><a href="https://github.com/thomasgilmore95" title="Code"> :computer: </a> </td> 
     
 </table>
 <!-- markdownlint-enable -->
